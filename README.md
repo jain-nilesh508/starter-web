@@ -21,6 +21,8 @@ can be on any web server or even local file system.
 
 ## How to Contribute
 
+Please fork this repository then issue PULL requests fro review.
+
 ### Copyright
 
 2019 Git.Training.
